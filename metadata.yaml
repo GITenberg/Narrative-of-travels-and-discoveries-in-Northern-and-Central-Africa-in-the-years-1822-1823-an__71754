@@ -1,0 +1,97 @@
+_repo: Narrative-of-travels-and-discoveries-in-Northern-and-Central-Africa-in-the-years-1822-1823-an__71754
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Brown, Robert
+    aliases:
+    - Brown, R. (Robert)
+    - Brown, Robertus
+    birthdate: 1773
+    deathdate: 1858
+    gutenberg_agent_id: '56361'
+    url: http://www.gutenberg.org/2009/agents/56361
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Brown_(botanist,_born_1773)
+  - agent_name: Children, J. G. (John George)
+    alias: Children, John George
+    birthdate: 1777
+    deathdate: 1852
+    gutenberg_agent_id: '56362'
+    url: http://www.gutenberg.org/2009/agents/56362
+    wikipedia: https://en.wikipedia.org/wiki/John_George_Children
+  - agent_name: König, Charles Dietrich Eberhard
+    aliases:
+    - Konig, Charles Dietrich Eberhard
+    - König, C. D. E. (Charles Dietrich Eberhard)
+    - Koenig, Carl D. E. (Carl Dietrich Eberhard)
+    - Koenig, Karl Dietrich Eberhard
+    birthdate: 1774
+    deathdate: 1851
+    gutenberg_agent_id: '56329'
+    url: http://www.gutenberg.org/2009/agents/56329
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Konig
+  - agent_name: Salamé, Abraham V.
+    aliases:
+    - Salame, Abraham V.
+    - Salamé, A. (Abraham V.)
+    gutenberg_agent_id: '56383'
+    url: http://www.gutenberg.org/2009/agents/56383
+  - agent_name: Vigors, N. A. (Nicholas Aylward)
+    alias: Vigors, Nicholas Aylward
+    birthdate: 1785
+    deathdate: 1840
+    gutenberg_agent_id: '56370'
+    url: http://www.gutenberg.org/2009/agents/56370
+    wikipedia: https://en.wikipedia.org/wiki/Nicholas_Aylward_Vigors
+creator:
+  authors:
+  - agent_name: Clapperton, Hugh
+    birthdate: 1788
+    deathdate: 1827
+    gutenberg_agent_id: '56381'
+    url: http://www.gutenberg.org/2009/agents/56381
+    wikipedia: https://en.wikipedia.org/wiki/Hugh_Clapperton
+  - agent_name: Denham, Dixon
+    birthdate: 1786
+    deathdate: 1828
+    gutenberg_agent_id: '56380'
+    url: http://www.gutenberg.org/2009/agents/56380
+    wikipedia: https://en.wikipedia.org/wiki/Dixon_Denham
+  - agent_name: Oudney, Walter
+    aliases:
+    - Oudney, Dr. (Walter)
+    - Oudney, Doctor (Walter)
+    birthdate: 1790
+    deathdate: 1824
+    gutenberg_agent_id: '56382'
+    url: http://www.gutenberg.org/2009/agents/56382
+    wikipedia: https://en.wikipedia.org/wiki/Walter_Oudney
+description: 'The appendix, 131 p. at end, contains: no. I-XVI. Translations from
+  the Arabic, of various letters and documents, brought from Bornou and Soudan by
+  Major Denham and Captain Clapperton. By A. Salame.--no. XVII-XX. Bornu, Bengharmi,
+  Mandara, and Timbuctoo vocabularies.--XXI. Zoology. [By John George Children and
+  Nicholas Aylward Vigors.]--XXII. Botanical appendix. By Robert Brown.--XXIII. Letter
+  to Major Denham, on the rock specimens ... by Charles Konig.--XXV. Thermometrical
+  journal kept at Kouka in Bornou.'
+gutenberg_issued: '2023-09-29'
+identifiers:
+  gutenberg: '71754'
+language: en
+pgterms:marc904: https://archive.org/details/b2201486x
+pgterms:marc905: 20230904235928denham
+pgterms:marc906: '1826'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive and Yale Univ. Library)
+publication_note: '  $aLondon :$bJohn Murray, $c1826.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, Central -- Description and travel'
+- !lcsh 'Africa, North -- Description and travel'
+- !lcsh 'Natural history -- Africa, North'
+- !lcc 'DT'
+- GITenberg
+title: Narrative of travels and discoveries in Northern and Central Africa, in the
+  years 1822, 1823, and 1824
+url: http://www.gutenberg.org/ebooks/71754
