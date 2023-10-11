@@ -42,6 +42,9 @@ contributor:
     gutenberg_agent_id: '56370'
     url: http://www.gutenberg.org/2009/agents/56370
     wikipedia: https://en.wikipedia.org/wiki/Nicholas_Aylward_Vigors
+covers:
+- cover_type: archival
+  image_path: 71754-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Clapperton, Hugh
@@ -72,6 +75,8 @@ description: 'The appendix, 131 p. at end, contains: no. I-XVI. Translations fro
   Nicholas Aylward Vigors.]--XXII. Botanical appendix. By Robert Brown.--XXIII. Letter
   to Major Denham, on the rock specimens ... by Charles Konig.--XXV. Thermometrical
   journal kept at Kouka in Bornou.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71754#Narrative-of-travels-and-discoveries-in-Northern-and-Central-Africa-in-the-years-1822-1823-an_
 gutenberg_issued: '2023-09-29'
 identifiers:
   gutenberg: '71754'
